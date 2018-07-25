@@ -1,0 +1,3 @@
+author = Darkblood9696/ A Sloppy Zombie ninja
+version = 0.1
+displayName = Shade
